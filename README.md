@@ -1,4 +1,4 @@
-# Praktikum Struktur Data dan Algoritma - Chapter 5
+# Praktikum Struktur Data - Chapter 5
 
 Repositori ini berisi kumpulan implementasi kode dengan bahasa pemrograman Python untuk menyelesaikan berbagai studi kasus pada materi pencarian (*searching*) dan pengurutan (*sorting*). 
 
